@@ -90,9 +90,9 @@ class inspector(object):
  \__, |\___/ \__,_|_| |_|\__, |_| |_|  |_|  \___|_|\_\____/|_|
  |___/                   |___/  
                   "A.K.A GODFREY MBUVA"
-		        youngh4k4r.WordPress.com
+		    youngh4k4r.WordPress.com
  Version: """+bcolors.FAIL+"1.0b"+bcolors.ENDC+"""                       
-
+"""
 
 	def information(self):
 		uname = os.popen('uname -a').read()
